@@ -4,4 +4,8 @@
     align items: center;
     justify content: space between;
 }
-
+a:link, a:visited {
+    background-color: light blue;
+    color: white;
+    
+}
