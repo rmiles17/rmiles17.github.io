@@ -1,4 +1,5 @@
 .header {
     align-items: center;
     position: sticky;
+    border-bottom; 1px solid black;
 }
